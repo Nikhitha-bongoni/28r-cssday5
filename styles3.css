@@ -1,0 +1,18 @@
+.outer .text {
+    color: orange;
+  }
+  .heading + .subheading {
+    color: green;
+  }
+  .parent * {
+    font-size: 16px;
+    font-style: italic;
+  }
+  .section-title + .content {
+    background-color: lightgray;
+  }
+  .title ~ .intro {
+    font-size: 14px;
+    color: blue;
+  }
+  
